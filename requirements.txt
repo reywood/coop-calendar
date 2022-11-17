@@ -1,0 +1,8 @@
+black
+flake8
+flake8-bugbear
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+isort
+pytz
